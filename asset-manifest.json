@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dave_Geay_react_course_deploy_gh/static/css/main.a86bda18.css",
+    "main.js": "/Dave_Geay_react_course_deploy_gh/static/js/main.c6dbfce3.js",
+    "index.html": "/Dave_Geay_react_course_deploy_gh/index.html",
+    "main.a86bda18.css.map": "/Dave_Geay_react_course_deploy_gh/static/css/main.a86bda18.css.map",
+    "main.c6dbfce3.js.map": "/Dave_Geay_react_course_deploy_gh/static/js/main.c6dbfce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.c6dbfce3.js"
+  ]
+}
